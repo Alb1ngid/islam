@@ -97,3 +97,4 @@ YYY.gen_x()
 X.damage=100
 Villain.crit(X.damage)
 print(X.damage)
+
