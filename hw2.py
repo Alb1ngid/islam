@@ -94,4 +94,6 @@ class Villain(Hero2):
 YYY = Villain('ooo\n', 'rrr\n', 'uuu\n', 700, 'ppp')
 print(YYY)
 YYY.gen_x()
+X.damage=100
 Villain.crit(X.damage)
+print(X.damage)
